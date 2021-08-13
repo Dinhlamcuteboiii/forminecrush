@@ -9,11 +9,11 @@ const CONFIG = {
     desc: 'Đổ cái rụp lun rồi phải có ai đóa hôn mới dậy được :> ',
     btnYes: 'Thích một mình anh <33',
     btnNo: 'Không, Anh trai mưa à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3 ',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu không yêu cũng phải yêu =))',
+    reply: 'Yêu thì yêu không yêu cũng phải yêu =)) ',
     mess: 'Anh biết mà. Yêu em nhiều nhiều😘',
-    messDesc: 'Hết dịch em làm công chúa của anh nhé babe đáng iu :3.',
+    messDesc: 'Hết dịch em làm công chúa của anh nhé babe đáng iu :3',
     btnAccept: 'Okiiiii lun ạ <3',
-    messLink: 'https://www.facebook.com/lamdinh01/
+    messLink: 'https://www.facebook.com/lamdinh01/ '
 }
