@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'BBi⭐️ của tui à!',
+    introTitle: 'BBi⭐️ của anh à!',
     introDesc: `Cuộc đời này vốn lạ thường
     Mà Ánh Sao lại đi nhầm đường😗
     Lạc vào tim Anh lẻ loi
@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu không yêu cũng phải yêu =))',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Anh biết mà. Yêu em nhiều nhiều😘',
     messDesc: 'Hết dịch em làm công chúa của anh nhé babe đáng iu :3.',
     btnAccept: 'Okiiiii lun ạ <3',
     messLink: 'https://www.facebook.com/lamdinh01/
